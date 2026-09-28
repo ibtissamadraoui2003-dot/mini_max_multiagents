@@ -1,0 +1,8 @@
+# Requirements for Multi-Agent Reinforcement Learning Games
+# Ball Sort IQL & Minimax Pong v3
+
+
+pygame>=2.0.0
+
+
+numpy>=1.20.0
